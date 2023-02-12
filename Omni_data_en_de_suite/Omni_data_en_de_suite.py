@@ -3,7 +3,7 @@
 
 
 print('Welcome to the Omni File Suite.\n\nIf you have any questions or suggestions\nfeel free to reach out to me on twitter @martinseeger2.\
-\nIf you find this program intresting or useful\nsend ltc to MD3dviJcZjZ1gFJFdSqwtnq6nWrdNyoB4r\nhelp support the creator.\n')
+\nIf you find this program intresting or useful\nhelp support the creator.\n')
 user_input = input\
 ('Input the action you would like to execute.\n\nRead commands:\nvp = view props.\nip = Image parse.\nmp3 = mp3 parse\n\nWrite commands:\niga = Generate omni arguments from in.jpeg image file.\nmp3ga = Generate omni arguments from in.mp3 mp3 file.\
 \nfc = fee calulator.\nsif = Sendissuancefixed creats tokens from the arguments.txt. This will cost fees.\nsifs = Creats singal token if one is missing. Wait 13 min before you do this the transaction may still be verified.\n\nInput command:')
